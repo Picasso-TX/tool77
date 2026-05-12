@@ -16,7 +16,7 @@ Tool77 एक मुफ्त ब्राउज़र-आधारित टू
 
 | Title | URL | Introduction |
 |------|-----|-------------|
-| सोशल मीडिया के लिए बहुउद्देशीय वीडियो डाउनलोडर — ऑनलाइन और मुफ्त सेवा | [https://www.tool77.com/hi/v/downloader](https://www.tool77.com/hi/v/downloader) | वॉटरमार्क के बिना मुफ्त HD वीडियो डाउनलोडर। YouTube | Douyin/Tiktok | Instagram | Threads | Facebook | X/Twitter | Tumblr | Linkedin | XiaoHongShu | TED और अन्य का समर्थन करता है। |
+| सोशल मीडिया के लिए बहुउद्देशीय वीडियो डाउनलोडर — ऑनलाइन और मुफ्त सेवा | [https://www.tool77.com/hi/v/downloader](https://www.tool77.com/hi/v/downloader) | वॉटरमार्क के बिना मुफ्त HD वीडियो डाउनलोडर। YouTube、Douyin/Tiktok 、 Instagram 、 Threads 、 Facebook 、 X/Twitter 、 Tumblr 、 Linkedin 、 XiaoHongShu 、 TED और अन्य का समर्थन करता है। |
 | ऑनलाइन स्क्रीन रिकॉर्डिंग: मुफ्त उपकरण | [https://www.tool77.com/hi/t/screencap](https://www.tool77.com/hi/t/screencap) | विंडो की सामग्री (ब्राउज़र या ऐप की विंडो) को किसी भी तृतीय-पक्ष सॉफ़्टवेयर के बिना रिकॉर्ड करें — पूरी तरह से स्थानीय, सरल और उपयोगकर्ता के अनुकूल! |
 | संवेदनशील शब्दों का पता लगाना और फ़िल्टर करना — एक मुफ्त ऑनलाइन टूल | [https://www.tool77.com/hi/t/sensitiveWord](https://www.tool77.com/hi/t/sensitiveWord) | संवेदनशील शब्दों की ऑनलाइन जाँच और फ़िल्टरिंग: यह पता लगाना कि क्या पाठ में निषिद्ध या संवेदनशील शब्द हैं, साथ ही एक-क्लिक सफ़ाई जिससे इन शब्दों को '*' (समायोज्य) से बदलकर साफ़ और उपयुक्त पाठ तैयार किया जा सके। |
 | नियमित अभिव्यक्तियों का त्वरित संदर्भ — एक ऑनलाइन और मुफ्त मार्गदर्शिका | [https://www.tool77.com/hi/c/regexrule](https://www.tool77.com/hi/c/regexrule) | नियमित अभिव्यक्तियों के बुनियादी संयोजन और कुछ सामान्य पैटर्न प्रदान करें, जैसे: उपयोगकर्ता नाम, पासवर्ड, मोबाइल नंबर, ईमेल पता, HTML टैग्स, आदि। |
