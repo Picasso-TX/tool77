@@ -2,7 +2,7 @@
 
 | Title | URL | Introduction |
 |------|-----|-------------|
-| ابزار چندمنظوره دانلود ویدیو برای شبکه‌های اجتماعی — سرویس آنلاین و رایگان | [https://www.tool77.com/fa/v/downloader](https://www.tool77.com/fa/v/downloader) | دانلودکننده رایگان ویدیوهای HD بدون واترمارک. از YouTube | Douyin/Tiktok | Instagram | Threads | Facebook | X/Twitter | Tumblr | Linkedin | XiaoHongShu | TED و موارد دیگر پشتیبانی می‌کند. |
+| ابزار چندمنظوره دانلود ویدیو برای شبکه‌های اجتماعی — سرویس آنلاین و رایگان | [https://www.tool77.com/fa/v/downloader](https://www.tool77.com/fa/v/downloader) | دانلودکننده رایگان ویدیوهای HD بدون واترمارک. از YouTube、Douyin/Tiktok 、 Instagram 、 Threads 、 Facebook 、 X/Twitter 、 Tumblr 、 Linkedin 、 XiaoHongShu 、 TED و موارد دیگر پشتیبانی می‌کند. |
 | ضبط صفحه‌نمایش آنلاین: ابزار رایگان | [https://www.tool77.com/fa/t/screencap](https://www.tool77.com/fa/t/screencap) | محتوای پنجره‌ها (پنجره‌های مرورگر یا برنامه‌ها) را بدون هیچ نرم‌افزار شخص ثالث ضبط کنید — کاملاً محلی، ساده و کاربرپسند! |
 | کشف و فیلتر کردن کلمات حساس — ابزار آنلاین و رایگان | [https://www.tool77.com/fa/t/sensitiveWord](https://www.tool77.com/fa/t/sensitiveWord) | بررسی و فیلترسازی آنلاین کلمات حساس: کشف اینکه آیا متن شامل اصطلاحات ممنوع یا حساس است، همراه با پاک‌سازی با یک کلیک برای جایگزینی این کلمات با علامت "*" (قابل تنظیم)، به‌منظور تولید متنی پاک و مناسب. |
 | مرجع سریع قواعد عبارت‌های منظم — راهنمای آنلاین و رایگان | [https://www.tool77.com/fa/c/regexrule](https://www.tool77.com/fa/c/regexrule) | ترکیب پایهٔ عبارات منظم و برخی الگوهای متداول را ارائه دهید، مانند: نام کاربری، گذرواژه، شماره تلفن همراه، نشانی ایمیل، تگ‌های HTML، و غیره. |
