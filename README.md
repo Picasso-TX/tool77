@@ -16,7 +16,7 @@ Tool77 is a free browser-based toolbox website that provides a wide range of dai
 
 | Title | URL | Introduction |
 |------|-----|-------------|
-| All-in-One Social Media Video Downloader – Free Online Tool | [https://www.tool77.com/en/v/downloader](https://www.tool77.com/en/v/downloader) | Free HD video downloader without watermark. Supports  YouTube | Douyin/Tiktok | Instagram | Threads | Facebook | X/Twitter | Tumblr | Linkedin | XiaoHongShu | TED and more. |
+| All-in-One Social Media Video Downloader – Free Online Tool | [https://www.tool77.com/en/v/downloader](https://www.tool77.com/en/v/downloader) | Free HD video downloader without watermark. Supports  YouTube、Douyin/Tiktok 、 Instagram 、 Threads 、 Facebook 、 X/Twitter 、 Tumblr 、 Linkedin 、 XiaoHongShu 、 TED and more. |
 | Online Screen Recorder – Free Screen Recording Tool | [https://www.tool77.com/en/t/screencap](https://www.tool77.com/en/t/screencap) | Record window content (browser or application windows) without any third‑party client — entirely local, simple and easy to use! |
 | Sensitive Word Detection & Filtering – Free Online Tool | [https://www.tool77.com/en/t/sensitiveWord](https://www.tool77.com/en/t/sensitiveWord) | Online sensitive-word checking and filtering: detect whether text contains prohibited or sensitive terms, with one-click sanitization to replace such words with "*" (customizable), producing clean and appropriate text. |
 | Regular Expression Syntax Quick Reference – Free Online Guide | [https://www.tool77.com/en/c/regexrule](https://www.tool77.com/en/c/regexrule) | Provide the basic syntax of regular expressions and some commonly used regex patterns, for example: username, password, mobile phone number, email address, HTML tags, etc. |
